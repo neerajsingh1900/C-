@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\Methoding\Methoding\bin\Debug\net8.0\Methoding.exe
+C:\Users\Coditas\source\repos\Methoding\Methoding\bin\Debug\net8.0\Methoding.deps.json
+C:\Users\Coditas\source\repos\Methoding\Methoding\bin\Debug\net8.0\Methoding.runtimeconfig.json
+C:\Users\Coditas\source\repos\Methoding\Methoding\bin\Debug\net8.0\Methoding.dll
+C:\Users\Coditas\source\repos\Methoding\Methoding\bin\Debug\net8.0\Methoding.pdb
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.dll
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\refint\Methoding.dll
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.pdb
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\Methoding.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\Methoding\Methoding\obj\Debug\net8.0\ref\Methoding.dll
