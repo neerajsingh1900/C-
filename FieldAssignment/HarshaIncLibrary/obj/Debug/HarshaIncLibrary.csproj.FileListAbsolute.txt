@@ -1,0 +1,6 @@
+C:\Users\Coditas\source\repos\FieldAssignment\HarshaIncLibrary\bin\Debug\HarshaIncLibrary.dll
+C:\Users\Coditas\source\repos\FieldAssignment\HarshaIncLibrary\bin\Debug\HarshaIncLibrary.pdb
+C:\Users\Coditas\source\repos\FieldAssignment\HarshaIncLibrary\obj\Debug\HarshaIncLibrary.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\FieldAssignment\HarshaIncLibrary\obj\Debug\HarshaIncLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\FieldAssignment\HarshaIncLibrary\obj\Debug\HarshaIncLibrary.dll
+C:\Users\Coditas\source\repos\FieldAssignment\HarshaIncLibrary\obj\Debug\HarshaIncLibrary.pdb

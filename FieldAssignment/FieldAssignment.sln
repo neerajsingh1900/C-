@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldAssignment", "FieldAssignment\FieldAssignment.csproj", "{4633440D-4577-4761-B4AD-66F87D71F92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaIncLibrary", "HarshaIncLibrary\HarshaIncLibrary.csproj", "{45388038-DDAE-4097-84B3-5FFAB1075409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4633440D-4577-4761-B4AD-66F87D71F92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4633440D-4577-4761-B4AD-66F87D71F92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4633440D-4577-4761-B4AD-66F87D71F92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4633440D-4577-4761-B4AD-66F87D71F92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45388038-DDAE-4097-84B3-5FFAB1075409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45388038-DDAE-4097-84B3-5FFAB1075409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45388038-DDAE-4097-84B3-5FFAB1075409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45388038-DDAE-4097-84B3-5FFAB1075409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F8E7ED8-C744-4563-9C08-0E2D5C0F885D}
+	EndGlobalSection
+EndGlobal
