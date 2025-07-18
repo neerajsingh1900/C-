@@ -1,0 +1,6 @@
+C:\Users\Coditas\source\repos\AccessModifiers\LinkingFile\bin\Debug\LinkingFile.dll
+C:\Users\Coditas\source\repos\AccessModifiers\LinkingFile\bin\Debug\LinkingFile.pdb
+C:\Users\Coditas\source\repos\AccessModifiers\LinkingFile\obj\Debug\LinkingFile.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\AccessModifiers\LinkingFile\obj\Debug\LinkingFile.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\AccessModifiers\LinkingFile\obj\Debug\LinkingFile.dll
+C:\Users\Coditas\source\repos\AccessModifiers\LinkingFile\obj\Debug\LinkingFile.pdb
