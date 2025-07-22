@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\bin\Debug\net8.0\PropertyAssignment.exe
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\bin\Debug\net8.0\PropertyAssignment.deps.json
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\bin\Debug\net8.0\PropertyAssignment.runtimeconfig.json
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\bin\Debug\net8.0\PropertyAssignment.dll
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\bin\Debug\net8.0\PropertyAssignment.pdb
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.dll
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\refint\PropertyAssignment.dll
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.pdb
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\PropertyAssignment.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\PropertyAssignment\PropertyAssignment\obj\Debug\net8.0\ref\PropertyAssignment.dll
