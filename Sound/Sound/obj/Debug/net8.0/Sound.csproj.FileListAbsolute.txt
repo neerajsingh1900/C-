@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\Sound\Sound\bin\Debug\net8.0\Sound.exe
+C:\Users\Coditas\source\repos\Sound\Sound\bin\Debug\net8.0\Sound.deps.json
+C:\Users\Coditas\source\repos\Sound\Sound\bin\Debug\net8.0\Sound.runtimeconfig.json
+C:\Users\Coditas\source\repos\Sound\Sound\bin\Debug\net8.0\Sound.dll
+C:\Users\Coditas\source\repos\Sound\Sound\bin\Debug\net8.0\Sound.pdb
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.dll
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\refint\Sound.dll
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.pdb
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\Sound.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\Sound\Sound\obj\Debug\net8.0\ref\Sound.dll
