@@ -1,0 +1,6 @@
+C:\Users\Coditas\source\repos\EventHandler\Publisher\bin\Debug\Publisher.dll
+C:\Users\Coditas\source\repos\EventHandler\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Coditas\source\repos\EventHandler\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\EventHandler\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\EventHandler\Publisher\obj\Debug\Publisher.dll
+C:\Users\Coditas\source\repos\EventHandler\Publisher\obj\Debug\Publisher.pdb
