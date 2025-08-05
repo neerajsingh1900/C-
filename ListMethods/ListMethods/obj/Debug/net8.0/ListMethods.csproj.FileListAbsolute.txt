@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\bin\Debug\net8.0\ListMethods.exe
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\bin\Debug\net8.0\ListMethods.deps.json
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\bin\Debug\net8.0\ListMethods.runtimeconfig.json
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\bin\Debug\net8.0\ListMethods.dll
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\bin\Debug\net8.0\ListMethods.pdb
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.dll
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\refint\ListMethods.dll
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.pdb
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ListMethods.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\ListMethods\ListMethods\obj\Debug\net8.0\ref\ListMethods.dll
