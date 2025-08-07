@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\bin\Debug\net8.0\ConvertAll.exe
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\bin\Debug\net8.0\ConvertAll.deps.json
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\bin\Debug\net8.0\ConvertAll.runtimeconfig.json
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\bin\Debug\net8.0\ConvertAll.dll
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\bin\Debug\net8.0\ConvertAll.pdb
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.dll
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\refint\ConvertAll.dll
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.pdb
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ConvertAll.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\ConvertAll\ConvertAll\obj\Debug\net8.0\ref\ConvertAll.dll
