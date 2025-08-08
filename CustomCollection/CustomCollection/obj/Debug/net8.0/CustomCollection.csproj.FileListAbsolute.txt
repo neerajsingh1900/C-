@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\bin\Debug\net8.0\CustomCollection.exe
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\bin\Debug\net8.0\CustomCollection.deps.json
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\bin\Debug\net8.0\CustomCollection.runtimeconfig.json
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\bin\Debug\net8.0\CustomCollection.dll
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\bin\Debug\net8.0\CustomCollection.pdb
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.dll
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\refint\CustomCollection.dll
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.pdb
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\CustomCollection.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\CustomCollection\CustomCollection\obj\Debug\net8.0\ref\CustomCollection.dll
