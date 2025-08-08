@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\bin\Debug\net8.0\CustomCollectionImple.exe
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\bin\Debug\net8.0\CustomCollectionImple.deps.json
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\bin\Debug\net8.0\CustomCollectionImple.runtimeconfig.json
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\bin\Debug\net8.0\CustomCollectionImple.dll
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\bin\Debug\net8.0\CustomCollectionImple.pdb
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.dll
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\refint\CustomCollectionImple.dll
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.pdb
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\CustomCollectionImple.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\CustomCollectionImple\CustomCollectionImple\obj\Debug\net8.0\ref\CustomCollectionImple.dll
