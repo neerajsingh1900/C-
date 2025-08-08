@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\bin\Debug\net8.0\EnumeratorExample.exe
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\bin\Debug\net8.0\EnumeratorExample.deps.json
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\bin\Debug\net8.0\EnumeratorExample.runtimeconfig.json
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\bin\Debug\net8.0\EnumeratorExample.dll
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\bin\Debug\net8.0\EnumeratorExample.pdb
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.dll
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\refint\EnumeratorExample.dll
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.pdb
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\EnumeratorExample.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\EnumeratorExample\EnumeratorExample\obj\Debug\net8.0\ref\EnumeratorExample.dll
