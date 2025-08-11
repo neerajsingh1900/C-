@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\bin\Debug\net8.0\Practice_Collection.exe
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\bin\Debug\net8.0\Practice_Collection.deps.json
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\bin\Debug\net8.0\Practice_Collection.runtimeconfig.json
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\bin\Debug\net8.0\Practice_Collection.dll
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\bin\Debug\net8.0\Practice_Collection.pdb
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.dll
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\refint\Practice_Collection.dll
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.pdb
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\Practice_Collection.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\Practice_Collection\Practice_Collection\obj\Debug\net8.0\ref\Practice_Collection.dll
