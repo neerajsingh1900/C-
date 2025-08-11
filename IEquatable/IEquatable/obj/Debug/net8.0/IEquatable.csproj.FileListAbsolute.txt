@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\bin\Debug\net8.0\IEquatable.exe
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\bin\Debug\net8.0\IEquatable.deps.json
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\bin\Debug\net8.0\IEquatable.runtimeconfig.json
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\bin\Debug\net8.0\IEquatable.dll
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\bin\Debug\net8.0\IEquatable.pdb
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.dll
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\refint\IEquatable.dll
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.pdb
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\IEquatable.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\IEquatable\IEquatable\obj\Debug\net8.0\ref\IEquatable.dll
