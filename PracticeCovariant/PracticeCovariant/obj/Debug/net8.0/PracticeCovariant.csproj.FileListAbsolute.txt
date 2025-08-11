@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\bin\Debug\net8.0\PracticeCovariant.exe
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\bin\Debug\net8.0\PracticeCovariant.deps.json
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\bin\Debug\net8.0\PracticeCovariant.runtimeconfig.json
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\bin\Debug\net8.0\PracticeCovariant.dll
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\bin\Debug\net8.0\PracticeCovariant.pdb
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.dll
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\refint\PracticeCovariant.dll
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.pdb
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\PracticeCovariant.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\PracticeCovariant\PracticeCovariant\obj\Debug\net8.0\ref\PracticeCovariant.dll
