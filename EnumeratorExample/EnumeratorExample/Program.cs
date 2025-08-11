@@ -3,7 +3,7 @@
 
 public class Program
 {
-        public static IEnumerable<int> Meth()
+        public static IEnumerator<int> Meth()
     {
         Console.WriteLine("order for buiscuit");
         Console.WriteLine("you have ordered:");
@@ -31,20 +31,21 @@ public class Program
         }
 
     // Yield Return example
-    IEnumerator<int> a = Meth().GetEnumerator();
+  //  IEnumerator<int> a = Meth().GetEnumerator();
 
         // we could use foreach this as it is of type ienumerable
         //foreach(int i in Meth())
         //{
         //    Console.WriteLine(i);
         //}
-
+        Meth().MoveNext();
+        Console.WriteLine(Meth().Current);
 
         // now doing manually
-        a.MoveNext();
-        Console.WriteLine(a.Current);
-        a.MoveNext() ;  
-        Console.WriteLine(a.Current);
+        //a.MoveNext();
+        //Console.WriteLine(a.Current);
+        //a.MoveNext() ;  
+        //Console.WriteLine(a.Current);
 
 
 
