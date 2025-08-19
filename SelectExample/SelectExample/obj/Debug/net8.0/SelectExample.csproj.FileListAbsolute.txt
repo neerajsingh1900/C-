@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\bin\Debug\net8.0\SelectExample.exe
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\bin\Debug\net8.0\SelectExample.deps.json
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\bin\Debug\net8.0\SelectExample.runtimeconfig.json
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\bin\Debug\net8.0\SelectExample.dll
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\bin\Debug\net8.0\SelectExample.pdb
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.dll
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\refint\SelectExample.dll
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.pdb
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\SelectExample.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\SelectExample\SelectExample\obj\Debug\net8.0\ref\SelectExample.dll
