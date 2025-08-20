@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\bin\Debug\net8.0\CheckingStrings.exe
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\bin\Debug\net8.0\CheckingStrings.deps.json
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\bin\Debug\net8.0\CheckingStrings.runtimeconfig.json
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\bin\Debug\net8.0\CheckingStrings.dll
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\bin\Debug\net8.0\CheckingStrings.pdb
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.dll
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\refint\CheckingStrings.dll
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.pdb
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\CheckingStrings.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\CheckingStrings\CheckingStrings\obj\Debug\net8.0\ref\CheckingStrings.dll
