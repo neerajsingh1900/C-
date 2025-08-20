@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\bin\Debug\net8.0\JoinExample.exe
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\bin\Debug\net8.0\JoinExample.deps.json
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\bin\Debug\net8.0\JoinExample.runtimeconfig.json
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\bin\Debug\net8.0\JoinExample.dll
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\bin\Debug\net8.0\JoinExample.pdb
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.dll
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\refint\JoinExample.dll
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.pdb
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\JoinExample.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\JoinExample\JoinExample\obj\Debug\net8.0\ref\JoinExample.dll
