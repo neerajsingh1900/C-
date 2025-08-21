@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\bin\Debug\net8.0\PracticeStrings.exe
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\bin\Debug\net8.0\PracticeStrings.deps.json
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\bin\Debug\net8.0\PracticeStrings.runtimeconfig.json
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\bin\Debug\net8.0\PracticeStrings.dll
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\bin\Debug\net8.0\PracticeStrings.pdb
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.dll
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\refint\PracticeStrings.dll
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.pdb
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\PracticeStrings.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\PracticeStrings\PracticeStrings\obj\Debug\net8.0\ref\PracticeStrings.dll
