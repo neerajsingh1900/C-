@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\bin\Debug\net8.0\ModifyString.exe
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\bin\Debug\net8.0\ModifyString.deps.json
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\bin\Debug\net8.0\ModifyString.runtimeconfig.json
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\bin\Debug\net8.0\ModifyString.dll
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\bin\Debug\net8.0\ModifyString.pdb
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.dll
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\refint\ModifyString.dll
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.pdb
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ModifyString.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\ModifyString\ModifyString\obj\Debug\net8.0\ref\ModifyString.dll
