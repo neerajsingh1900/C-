@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\Handle\Handle\bin\Debug\net8.0\Handle.exe
+C:\Users\Coditas\source\repos\Handle\Handle\bin\Debug\net8.0\Handle.deps.json
+C:\Users\Coditas\source\repos\Handle\Handle\bin\Debug\net8.0\Handle.runtimeconfig.json
+C:\Users\Coditas\source\repos\Handle\Handle\bin\Debug\net8.0\Handle.dll
+C:\Users\Coditas\source\repos\Handle\Handle\bin\Debug\net8.0\Handle.pdb
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.dll
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\refint\Handle.dll
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.pdb
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\Handle.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\Handle\Handle\obj\Debug\net8.0\ref\Handle.dll
