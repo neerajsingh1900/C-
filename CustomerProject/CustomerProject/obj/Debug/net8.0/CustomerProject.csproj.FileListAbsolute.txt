@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\bin\Debug\net8.0\CustomerProject.exe
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\bin\Debug\net8.0\CustomerProject.deps.json
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\bin\Debug\net8.0\CustomerProject.runtimeconfig.json
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\bin\Debug\net8.0\CustomerProject.dll
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\bin\Debug\net8.0\CustomerProject.pdb
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.dll
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\refint\CustomerProject.dll
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.pdb
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\CustomerProject.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\CustomerProject\CustomerProject\obj\Debug\net8.0\ref\CustomerProject.dll
