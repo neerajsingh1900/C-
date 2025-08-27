@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\Customthread\Customthread\bin\Debug\net8.0\Customthread.exe
+C:\Users\Coditas\source\repos\Customthread\Customthread\bin\Debug\net8.0\Customthread.deps.json
+C:\Users\Coditas\source\repos\Customthread\Customthread\bin\Debug\net8.0\Customthread.runtimeconfig.json
+C:\Users\Coditas\source\repos\Customthread\Customthread\bin\Debug\net8.0\Customthread.dll
+C:\Users\Coditas\source\repos\Customthread\Customthread\bin\Debug\net8.0\Customthread.pdb
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.dll
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\refint\Customthread.dll
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.pdb
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\Customthread.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\Customthread\Customthread\obj\Debug\net8.0\ref\Customthread.dll
