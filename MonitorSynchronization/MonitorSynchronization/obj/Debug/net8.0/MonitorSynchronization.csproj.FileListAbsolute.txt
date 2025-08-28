@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\bin\Debug\net8.0\MonitorSynchronization.exe
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\bin\Debug\net8.0\MonitorSynchronization.deps.json
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\bin\Debug\net8.0\MonitorSynchronization.runtimeconfig.json
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\bin\Debug\net8.0\MonitorSynchronization.dll
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\bin\Debug\net8.0\MonitorSynchronization.pdb
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.dll
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\refint\MonitorSynchronization.dll
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.pdb
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\MonitorSynchronization.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\MonitorSynchronization\MonitorSynchronization\obj\Debug\net8.0\ref\MonitorSynchronization.dll
