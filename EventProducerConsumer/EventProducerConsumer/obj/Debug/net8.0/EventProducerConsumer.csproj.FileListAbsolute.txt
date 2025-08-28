@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\bin\Debug\net8.0\EventProducerConsumer.exe
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\bin\Debug\net8.0\EventProducerConsumer.deps.json
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\bin\Debug\net8.0\EventProducerConsumer.runtimeconfig.json
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\bin\Debug\net8.0\EventProducerConsumer.dll
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\bin\Debug\net8.0\EventProducerConsumer.pdb
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.dll
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\refint\EventProducerConsumer.dll
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.pdb
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\EventProducerConsumer.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\EventProducerConsumer\EventProducerConsumer\obj\Debug\net8.0\ref\EventProducerConsumer.dll
