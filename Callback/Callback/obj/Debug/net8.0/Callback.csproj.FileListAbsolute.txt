@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\Callback\Callback\bin\Debug\net8.0\Callback.exe
+C:\Users\Coditas\source\repos\Callback\Callback\bin\Debug\net8.0\Callback.deps.json
+C:\Users\Coditas\source\repos\Callback\Callback\bin\Debug\net8.0\Callback.runtimeconfig.json
+C:\Users\Coditas\source\repos\Callback\Callback\bin\Debug\net8.0\Callback.dll
+C:\Users\Coditas\source\repos\Callback\Callback\bin\Debug\net8.0\Callback.pdb
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.dll
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\refint\Callback.dll
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.pdb
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\Callback.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\Callback\Callback\obj\Debug\net8.0\ref\Callback.dll
