@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\bin\Debug\net8.0\WaitAndPulse.exe
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\bin\Debug\net8.0\WaitAndPulse.deps.json
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\bin\Debug\net8.0\WaitAndPulse.runtimeconfig.json
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\bin\Debug\net8.0\WaitAndPulse.dll
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\bin\Debug\net8.0\WaitAndPulse.pdb
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.dll
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\refint\WaitAndPulse.dll
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.pdb
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\WaitAndPulse.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\WaitAndPulse\WaitAndPulse\obj\Debug\net8.0\ref\WaitAndPulse.dll
